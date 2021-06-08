@@ -1,0 +1,9 @@
+.mwidth{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.whitePre{
+    border: none;
+    background-color: white;
+}
